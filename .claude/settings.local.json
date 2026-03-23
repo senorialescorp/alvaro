@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find C:UsersestuaDocumentsaisenoriales-48152aa7supabasefunctions -name index.ts -o -name *.ts)",
+      "Bash(npm install:*)",
+      "Bash(npx prisma:*)",
+      "Bash(npx tsc:*)",
+      "Bash(./node_modules/.bin/tsc --noEmit)",
+      "Bash(npx vite:*)",
+      "Bash(grep -E \"^.*/\\(server|src\\)/[^/]*\\\\.ts$\")",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ]
+  }
+}
