@@ -1,0 +1,7 @@
+.git
+.env
+logs
+notebooks
+mlruns
+mlartifacts
+**/__pycache__

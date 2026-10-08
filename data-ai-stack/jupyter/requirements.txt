@@ -1,0 +1,16 @@
+# Conexion al DW
+pyodbc>=5.1
+sqlalchemy>=2.0
+jupysql>=0.10          # %%sql magic en notebooks
+python-dotenv>=1.0
+
+# MLflow (mismo major que el server)
+mlflow>=3.1,<4
+
+# Datos
+pyarrow>=15
+openpyxl>=3.1
+
+# Opcionales (pesan ~300 MB por los wheels con CUDA). Descomenta si los necesitas.
+# xgboost>=2.0
+# lightgbm>=4.3

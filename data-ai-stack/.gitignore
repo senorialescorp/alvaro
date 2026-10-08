@@ -1,0 +1,9 @@
+.env
+logs/**
+!logs/.gitkeep
+notebooks/.ipynb_checkpoints/
+**/__pycache__/
+*.pyc
+mlruns/
+mlartifacts/
+.venv/
