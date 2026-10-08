@@ -1,0 +1,44 @@
+data-ai-stack/src/dw.py
+  s_db2984f0b581b5::t_1922a79a59d064 1-70
+data-ai-stack/jobs/requirements.txt
+  s_db2984f0b581b5::t_c6ff60bb33db9c 1-8
+data-ai-stack/README.md
+  s_db2984f0b581b5::t_19dbd864203f32 1-115
+data-ai-stack/.env.example
+  s_db2984f0b581b5::t_0d2237a2e478df 1-38
+data-ai-stack/mlflow/Dockerfile
+  s_db2984f0b581b5::t_fc8edd0e7d2a3e 1-42
+data-ai-stack/.gitignore
+  s_db2984f0b581b5::t_999e239a9927e1 1-9
+data-ai-stack/src/jobs/smoke_test.py
+  s_db2984f0b581b5::t_c722b6a7c942ef 1-52
+data-ai-stack/.dockerignore
+  s_db2984f0b581b5::t_999e239a9927e1 1-7
+data-ai-stack/mlflow/requirements.txt
+  s_db2984f0b581b5::t_c6ff60bb33db9c 1-2
+data-ai-stack/jobs/Dockerfile
+  s_db2984f0b581b5::t_c6ff60bb33db9c 1-32
+data-ai-stack/docker-compose.yml
+  s_db2984f0b581b5::t_0d2237a2e478df 1-131
+data-ai-stack/jupyter/requirements.txt
+  s_db2984f0b581b5::t_0c1735c7fc2251 10,13-16
+  s_db2984f0b581b5::t_c6ff60bb33db9c 1-9,11-12
+data-ai-stack/jupyter/Dockerfile
+  s_db2984f0b581b5::t_c6ff60bb33db9c 1-33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4551537d092a9e23a3868948f3a5d40c82952e09",
+  "prompts": {},
+  "sessions": {
+    "s_db2984f0b581b5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "689c7539-ec66-4e11-a67d-bd0166569fac",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "vallit0 <evallecyt@gmail.com>"
+    }
+  }
+}
